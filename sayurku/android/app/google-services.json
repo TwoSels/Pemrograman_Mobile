@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610291476415",
+    "project_id": "sayurku-174a1",
+    "storage_bucket": "sayurku-174a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610291476415:android:f95fd25629c575c909630a",
+        "android_client_info": {
+          "package_name": "com.example.sayurku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610291476415-1r13dofvburg4tvuc7sur768nltbbi9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAQvlbrbiOCZUBfHTHdVSXEfUk25aIHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610291476415-1r13dofvburg4tvuc7sur768nltbbi9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
